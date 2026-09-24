@@ -1,0 +1,36 @@
+‡@“®Œ,‡Adoing/to do,‡BˆÓ–¡,‡Cƒ^ƒCƒv,‡DŒë“š‘I‘ğˆ
+admit,doing,`‚µ‚½‚±‚Æ‚ğ”F‚ß‚é,normal,
+deny,doing,`‚µ‚½‚±‚Æ‚ğ”Û’è‚·‚é,normal,
+finish,doing,`‚·‚é‚±‚Æ‚ğI‚¦‚é,normal,
+give up,doing,`‚·‚é‚Ì‚ğ‚â‚ß‚é,normal,
+enjoy,doing,`‚µ‚ÄŠy‚µ‚Ş,normal,
+practice,doing,`‚ğ—ûK‚·‚é,normal,
+avoid,doing,`‚·‚é‚Ì‚ğ”ğ‚¯‚é,normal,
+escape,doing,`‚·‚é‚Ì‚ğ“¦‚ê‚é,normal,
+mind,doing,`‚·‚é‚Ì‚ğŒ™‚ª‚é,normal,
+miss,doing,`‚µ‚»‚±‚È‚¤,normal,
+put off,doing,`‚·‚é‚Ì‚ğ‰„Šú‚·‚é,normal,
+consider,doing,`‚·‚é‚±‚Æ‚ğ‚æ‚­l‚¦‚é,normal,
+imagine,doing,`‚·‚é‚Ì‚ğ‘z‘œ‚·‚é,normal,
+suggest,doing,`‚·‚é‚±‚Æ‚ğ’ñˆÄ‚·‚é,normal,
+decide,to do,`‚µ‚æ‚¤‚ÆŒˆS‚·‚é,normal,
+expect,to do,`‚·‚é‚¾‚ë‚¤‚Æv‚¤,normal,
+hope,to do,`‚·‚é‚±‚Æ‚ğ–]‚Ş,normal,
+mean,to do,`‚·‚é‚Â‚à‚è‚Å‚ ‚é,normal,
+offer,to do,`‚µ‚æ‚¤‚Æ\‚µo‚é,normal,
+plan,to do,`‚·‚éŒv‰æ‚Å‚ ‚é,normal,
+pretend,to do,`‚·‚é‚Ó‚è‚ğ‚·‚é,normal,
+promise,to do,`‚·‚é–ñ‘©‚ğ‚·‚é,normal,
+refuse,to do,`‚·‚é‚Ì‚ğ’f‚é,normal,
+wish,to do,`‚µ‚½‚¢‚Æv‚¤,normal,
+can't afford,to do,`‚·‚é—]—T‚ª‚È‚¢,normal,
+remember,doing,`‚µ‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚é,meaning,`‚·‚é‚±‚Æ‚ğŠo‚¦‚Ä‚¨‚­
+remember,to do,`‚·‚é‚±‚Æ‚ğŠo‚¦‚Ä‚¨‚­,meaning,`‚µ‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚é
+forget,doing,`‚µ‚½‚±‚Æ‚ğ–Y‚ê‚é,meaning,`‚·‚é‚Ì‚ğ–Y‚ê‚é
+forget,to do,`‚·‚é‚Ì‚ğ–Y‚ê‚é,meaning,`‚µ‚½‚±‚Æ‚ğ–Y‚ê‚é
+try,doing,‚µ‚É`‚·‚é,meaning,`‚µ‚æ‚¤‚Æ‚·‚é
+try,to do,`‚µ‚æ‚¤‚Æ‚·‚é,meaning,‚µ‚É`‚·‚é
+regret,doing,`‚µ‚½‚±‚Æ‚ğŒã‰÷‚·‚é,meaning,c”O‚È‚ª‚ç`‚·‚é
+regret,to do,c”O‚È‚ª‚ç`‚·‚é,meaning,`‚µ‚½‚±‚Æ‚ğŒã‰÷‚·‚é
+stop,doing,`‚·‚é‚Ì‚ğ‚â‚ß‚é,meaning,`‚·‚é‚½‚ß‚É—§‚¿~‚Ü‚é
+stop,to do,`‚·‚é‚½‚ß‚É—§‚¿~‚Ü‚é,meaning,`‚·‚é‚Ì‚ğ‚â‚ß‚é
